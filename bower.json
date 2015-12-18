@@ -1,0 +1,23 @@
+{
+  "name": "angular-directive-package-demo",
+  "homepage": "https://github.com/DouganRedhammer/AngularDirectivePackageDemo",
+  "description": "A demo project on creating and consuming bower packages",
+  "main": "adModule.js",
+  "moduleType": [],
+  "keywords": [
+    "Demo",
+    "Example",
+    "Angular"
+  ],
+  "authors": [
+    "Daniel Franklin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
